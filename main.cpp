@@ -20,11 +20,11 @@ int main ()
         arreglo.insertar_inicio("con");
 
 
-//        arreglo.insertar(":(",2); //Insertar el 100 en posicion 2
+        arreglo.insertar(":(",2); //Insertar el 100 en posicion 2
     
-//        arreglo.eliminar_inicio();
-//        arreglo.eliminar_final();
-//        arreglo.eliminar(4); //eliminar el de la posicion 4
+        arreglo.eliminar_inicio();
+        arreglo.eliminar_final();
+        arreglo.eliminar(4); //eliminar el de la posicion 4
 
     for (size_t i = 0.0; i < arreglo.size(); i++)
     {
